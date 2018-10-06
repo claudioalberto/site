@@ -2,3 +2,42 @@ baseURL = "claudioalberto.com.br"
 languageCode = "pt-br"
 title = "Claudio Alberto"
 theme = "osprey"
+
+[Params]
+    tagline = "Vivendo com um lápis de cor"
+    author = "Claudio Alberto"
+    description = "Sou um sonhador, programador e designer que acredita no poder que existe dentro de nós para colorir esse mundo."
+    logoBig = "/images/cafg-logo.png"
+    logoSmall = "/images/cafg-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    twitter = "claudio_afg"
+    linkedin = "claudioalberto"
+    github = "claudioalberto"
+    facebook = "claudioafg"
+    email = "contato@claudioalberto.com.br"
+    googleTagManager = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "Sobre mim"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Projetos"
+    url  = "/#work"
+    weight = 2
+# [[menu.main]]
+#     name = "Blog"
+#     url  = "/#blog"
+#     weight = 3
+[[menu.main]]
+    name = "Contato"
+    url  = "/#contact"
+    weight = 4
