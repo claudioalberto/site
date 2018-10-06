@@ -1,7 +1,6 @@
 baseURL = "https://claudioalberto.com.br"
 languageCode = "pt-br"
 title = "Claudio Alberto"
-theme = "osprey"
 
 [Params]
     tagline = "Vivendo com um lápis de cor"

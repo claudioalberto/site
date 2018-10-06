@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "header.html" . }}
+  <body>
+    {{ partial "body-top" . }}
+    <main>
+
+      <section class="container">
+          <section class="content">
+              <h3 style="text-align: center; font-weight: 300;">PODCAST</h3>
+              <h2 style="text-align: center;margin-top: 0px; border-bottom: 3px solid #000;">{{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}</h2>
+              <article class="entry-content">
+                  {{ .Content }}
+              </article>
+
+              <div class="pagination">
+                  {{ if .PrevInSection }}
+                      <a href="{{ .PrevInSection.Permalink }}">&laquo; {{ .PrevInSection.Title }}</a>
+                  {{ end }}
+                  {{ if .NextInSection }}
+                      <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }} &raquo;</a>
+                  {{ end }}
+              </div>
+          </section>
+          <br>
+          {{ partial "disqus" . }}
+      </section>
+
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "body-bottom" . }}
+  </body>
+</html>

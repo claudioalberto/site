@@ -1,7 +1,6 @@
 ---
 title: "Sobre mim"
 date: 2018-10-06T01:19:46-03:00
-draft: true
 ---
 
 Se eu fosse me resumir em uma adjetivo, me chamaria de **SONHADOR**, se vocẽ usar o minimo de palavras possíveis para me descrever diria que sou um **LÁPIS DE COR**, que tem como missão colorir esse mundo que anda tão preto e branco.
