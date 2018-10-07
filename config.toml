@@ -3,7 +3,7 @@ languageCode = "pt-br"
 title = "Claudio Alberto"
 
 [Params]
-    tagline = "Vivendo com um lápis de cor"
+    tagline = "Vivendo como um lápis de cor"
     author = "Claudio Alberto"
     description = "Sou um sonhador, programador e designer que acredita no poder que existe dentro de nós para colorir esse mundo."
     logoBig = "/images/cafg-logo.png"
