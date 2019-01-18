@@ -1,13 +1,12 @@
 +++
-date = "2018-09-16T21:35:17-07:00"
-title = "VIVENDO COMO UM LÁPIS DE COR"
-image = "cover-vivendo-como-lapis-de-cor.png"
 alt = "PODCAST | VIVENDO COMO UM LÁPIS DE COR"
 color = "#A4A4A4"
+date = "2018-09-17T04:35:17+00:00"
+image = "cover-vivendo-como-lapis-de-cor.png"
 link1 = "/podcast/vivendo-como-um-lapis-de-cor"
+title = "VIVENDO COMO UM LÁPIS DE COR"
+
 +++
-
-
 ### #2 - Coveiro ou Parteiro, quem você é?
 Nesse episódio, conversamos um pouco sobre a questão de sermos coveiros ou parteiros em nossa própria vida e nas vidas das pessoas.
 <iframe src="https://anchor.fm/vivendo-como-lapis-de-cor/embed/episodes/2---Coveiro-ou-Parteiro--quem-voc-e2bfad" height="200px" width="100%" frameborder="0" scrolling="no"></iframe>
